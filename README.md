@@ -8,4 +8,4 @@
 
 ## Code.org GameLab
 [robotFace](https://Sethnixon13.github.io/robotFace)
-> blah
+> My project changes color and size in many different shapes.
