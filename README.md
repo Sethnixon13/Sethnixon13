@@ -6,6 +6,6 @@
 
 ![NewOcto copy](https://github.com/Sethnixon13/Sethnixon13/assets/146843343/f6893bf9-6b05-409e-82db-04f584800ec0)
 
-## Code.org GameLab
+### Code.org GameLab
 [robotFace](https://Sethnixon13.github.io/robotFace)
-> My project changes color and size in many different shapes.
+>  I used random numbers to change sizes and colors. Also using many different shapes to create the robot. This shows my creativity when I am coding.
