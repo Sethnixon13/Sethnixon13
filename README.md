@@ -10,5 +10,5 @@ OctoCat
 ### Code.org GameLab
 [robotFace](https://Sethnixon13.github.io/robotFace)
 >  I used random numbers to change sizes and colors. Also using many different shapes to create the robot. This shows my creativity when I am coding.
-[(https://studio.code.org/projects/gamelab/Ks5FD1ZQlD4RcKuJeGaDtz8XD3lw6vmfZbNJrYyGCzY)](url)
+[captioned scene](https://studio.code.org/projects/gamelab/Ks5FD1ZQlD4RcKuJeGaDtz8XD3lw6vmfZbNJrYyGCzY)
 > captioned scene: I put two of my favorite soccer players in the world and who are probably the two best players in the world and of all time. I used many different stuff a to create this. I used shapes and random numbers to make it and drew the two characters.
