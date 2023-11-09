@@ -19,8 +19,8 @@
 >
 [Interactive Card](https://studio.code.org/projects/gamelab/tOH7_cI0gnDAB6XI_k6QpMplG11qBUsbKS0X7ym0bN4)
 > I made a valentine car with different stuff moving and when you clcik certain buttones like y and n something will change with the background. Also the emoji and heart changes when you click left mouse button and the heart wioll change when you click the left mouse button.
-[Side Scroller]
->
+[Side Scroller](https://studio.code.org/projects/gamelab/CP_GY2XeKHZhw5J5YihxhKgGeFU5z7DIDlCD36Id83Y)
+>fish moves andcollects food and tries to avoid getting hit by shark
 [Flyer Game]
 >
 [Project - Design a Game]
