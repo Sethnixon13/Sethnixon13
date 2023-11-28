@@ -25,5 +25,10 @@
 
 [Flyer Game](https://studio.code.org/projects/gamelab/ZuDhACIfXwrCPwmzz7Ohz9PYhvybxkLiiOpSCAQQfSs)
 > We used the past challenges tohelp us make this code great. espacialy 23 and tried to use 22. overall it i a solid game.
+
 [Project - Design a Game]
->
+
+
+.[Platform Game](https://studio.code.org/projects/gamelab/iXVC7Ql4AIFH_pkbwHTrv0ge2JiYkULVZAiVFj8AANg)
+> We used the thing taht they gave us and create it with new sprites that make sense that are a Bunny.Carrot and grass or you can call that the platform. This game is pretty good and we worked hard on it. Overall it uses everything we have learned and we used plenty of functions to make the code shorter instead of it being a long code.
+
