@@ -34,3 +34,15 @@
 
 [Final Game](https://studio.code.org/projects/gamelab/4VEzrF9eyo6ZOfHFVWrtgyf6OGxt8lEw5xbZbCQjLGk)
 > Overall i had fun experience doing thsiproject and which i think I did good in but the biggest problem was trying to firgure out the score.
+
+[Hello it's me](https://gallery.appinventor.mit.edu/?galleryid=4c46ab1f-8f4f-46f9-a8c8-ddb3492b2ad4)
+> click any animal to get a sound like monkey and donkeys. But if you click Garry the snail it will play a special sound.
+
+[Piano Player](https://gallery.appinventor.mit.edu/?galleryid=4f6493d0-8382-4b81-87ec-9abf6fb455b8)
+> It is like a normal piano without teh sharps and flats. It is just th c major scale and youplay som easy tunes if you wanted to. You just clikc the note and it will play that note.
+
+[Christmas player](https://gallery.appinventor.mit.edu/?galleryid=f70d0d4c-21ea-49ff-be2d-4ecd4649d29d)
+> You clcik certain pictures and it will play a Christmas tune which are all fun to liste to.
+
+[Find Gold](https://gallery.appinventor.mit.edu/?galleryid=61f8de15-6f64-4007-8aca-2218c08a517a)
+> It is a maze to the gold and you will tilt the screen to move the ball and try not to hit anything or else you will go backto the start.
