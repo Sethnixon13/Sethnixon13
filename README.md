@@ -46,3 +46,6 @@
 
 [Find Gold](https://gallery.appinventor.mit.edu/?galleryid=61f8de15-6f64-4007-8aca-2218c08a517a)
 > It is a maze to the gold and you will tilt the screen to move the ball and try not to hit anything or else you will go backto the start.
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=3221c0b0-3f67-45b5-aae4-8f4be3545027)
+> Try not ti hit the gren ball while hittin the different animals. Your ball will groww as you collect them and will make it harder to not hit the green ball.
