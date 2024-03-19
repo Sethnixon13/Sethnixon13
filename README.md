@@ -49,3 +49,9 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=3221c0b0-3f67-45b5-aae4-8f4be3545027)
 > Try not ti hit the gren ball while hittin the different animals. Your ball will groww as you collect them and will make it harder to not hit the green ball.
+
+[Soccer Goal](https://academy.cs.cmu.edu/sharing/blueGoldfish2559)
+> This is a game so when you click th escren the number of goals will go up.
+
+[City](https://academy.cs.cmu.edu/sharing/peruPuppy5951)
+> A toky type city with lights and different buildings.
