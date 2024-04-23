@@ -56,3 +56,9 @@
 
 [City](https://academy.cs.cmu.edu/sharing/peruPuppy5951)
 > A toky type city with lights and different buildings.
+
+[LightRoom](https://academy.cs.cmu.edu/sharing/tanChimpanzee3137)
+> We used the basics to make thye background and all of the pother thing sbvut when we got to the main part of th eproject we started to use functions and if  else statements which woul dmake th elight turn on and off amnd make th eroom darker.
+
+[Bigboy](https://academy.cs.cmu.edu/sharing/brownCamel4141)
+> whn creating the boy ad the foo dwe used the normals shapes. as we went to make the boy eat the food we used if,else, amd elif statement. Also makeing it so when you clcik f it will refill th eplates so you can feed him more food. But there are limits so he can be too full or too skinny
