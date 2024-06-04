@@ -62,3 +62,6 @@
 
 [Bigboy](https://academy.cs.cmu.edu/sharing/brownCamel4141)
 > whn creating the boy ad the foo dwe used the normals shapes. as we went to make the boy eat the food we used if,else, amd elif statement. Also makeing it so when you clcik f it will refill th eplates so you can feed him more food. But there are limits so he can be too full or too skinny
+
+[TheClaw](https://academy.cs.cmu.edu/sharing/maroonEagle3420)
+> It is just a claw machine but if you don't get a ball it will restart and you have to do it all over again.
